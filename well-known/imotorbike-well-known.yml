@@ -1,0 +1,24 @@
+generated: '2026-07-19'
+method: searched
+source: live probes of https://imotorbike.com/.well-known/*
+host: https://imotorbike.com
+note: >-
+  No machine-readable discovery documents were found. The origin returns HTTP
+  500 for unknown /.well-known/ paths (not 404), so none of the probed documents
+  exist. A real /llms.txt IS published (captured at llms/imotorbike-llms.txt).
+documents:
+- path: /.well-known/security.txt
+  status: 500
+  file: null
+- path: /.well-known/openid-configuration
+  status: 500
+  file: null
+- path: /.well-known/oauth-authorization-server
+  status: 500
+  file: null
+- path: /.well-known/api-catalog
+  status: 500
+  file: null
+- path: /.well-known/ai-plugin.json
+  status: 500
+  file: null

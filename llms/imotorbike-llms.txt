@@ -1,0 +1,60 @@
+# iMotorbike
+
+> iMotorbike is an online marketplace and service platform for buying, selling, and servicing motorbikes in Malaysia and Vietnam.
+
+## Website
+
+- Main site: https://imotorbike.com/
+- Sitemap: https://imotorbike.com/sitemap.xml
+
+## Primary Pages
+
+- Malaysia, English: https://imotorbike.com/my/en/
+- Malaysia, Bahasa Malaysia: https://imotorbike.com/my/ms/
+- Vietnam, Vietnamese: https://imotorbike.com/vn/vi/
+- Vietnam, English: https://imotorbike.com/vn/en/
+
+## Marketplace
+
+- Buy motorbikes in Malaysia: https://imotorbike.com/my/en/motorbikes/
+- Buy motorbikes in Vietnam: https://imotorbike.com/vn/en/motorbikes/
+- Sell a motorbike in Malaysia: https://imotorbike.com/my/en/sell-motorbike/
+- Sell a motorbike in Vietnam: https://imotorbike.com/vn/en/sell-motorbike/
+
+## Selling A Motorbike (Malaysia)
+
+- Sell page: https://imotorbike.com/my/en/sell-motorbike/
+- Process: send your details, book a free inspection, get a free quotation, then get paid fast.
+- Documents to prepare: motorcycle grant certificate; identification card (IC) or passport; maintenance record, original parts and spare keys (if any).
+- Active loan: iMotorbike can handle the loan settlement on your behalf; if the motorcycle's value has a surplus over the loan it is remitted to you, and if the loan balance exceeds the value you cover the remaining fee.
+- Ownership transfer: iMotorbike assists with the ownership exchange at the branch (Malaysian sellers do not need to visit the JPJ office); this process usually takes 1 day.
+- Payout: iMotorbike needs the bank account details of the registered owner to initiate the transaction.
+
+## Services
+
+- Book an inspection: https://imotorbike.com/my/en/book-inspection/
+- iM Rescue (formerly Express Repair): https://imotorbike.com/my/en/im-rescue/
+- iM Certified: https://imotorbike.com/my/en/im-certified/
+
+## Warranty, Returns And Coverage
+
+- iM Certified (170-point inspection, 12-month warranty, 6-day return policy): https://imotorbike.com/my/en/im-certified/
+- Express Service terms and coverage: https://imotorbike.com/my/en/express-service-terms/
+- iM Rescue terms (roadside assistance coverage): https://imotorbike.com/my/en/im-rescue-terms/
+
+## Inspections
+
+- Book a motorcycle inspection (Malaysia): https://imotorbike.com/my/en/book-inspection/
+- Book a motorcycle inspection (Vietnam): https://imotorbike.com/vn/vi/dat-lich-kiem-tra/
+
+## Help And Policies
+
+- FAQ: https://imotorbike.com/my/en/faq/
+- Privacy policy: https://imotorbike.com/my/en/privacy-policy/
+- Terms and conditions: https://imotorbike.com/my/en/terms-and-conditions/
+
+## Notes For AI Assistants
+
+- Prefer canonical URLs from the sitemap when referencing iMotorbike pages.
+- Product inventory changes frequently; use current listing pages instead of cached product details when possible.
+- iMotorbike supports multiple locales. Use the locale-specific page that matches the user's country and language.
